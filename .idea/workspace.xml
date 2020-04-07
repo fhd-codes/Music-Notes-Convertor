@@ -47,7 +47,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/code.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\fhd11\Desktop\Music-Notes-Convertor-master\code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,9 +100,9 @@
       <screen x="0" y="40" width="1366" height="728" />
     </state>
     <state x="120" y="53" key="SettingsEditor/0.40.1366.728@0.40.1366.728" timestamp="1586276765922" />
-    <state x="379" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1586276610213">
+    <state x="379" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1586280524740">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state x="379" y="228" key="com.intellij.ide.util.TipDialog/0.40.1366.728@0.40.1366.728" timestamp="1586276610213" />
+    <state x="379" y="228" key="com.intellij.ide.util.TipDialog/0.40.1366.728@0.40.1366.728" timestamp="1586280524740" />
   </component>
 </project>
