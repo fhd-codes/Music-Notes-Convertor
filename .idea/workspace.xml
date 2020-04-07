@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe62363e-79e8-433a-9fbd-903a567ca6f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Music-Notes-Convertor-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Music-Notes-Convertor-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Music-Notes-Convertor-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +34,34 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RunManager">
+    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Music-Notes-Convertor-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.code" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -52,13 +76,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="120" y="53" key="SettingsEditor" timestamp="1586276313313">
+    <state x="137" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586276664090">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state x="120" y="53" key="SettingsEditor/0.40.1366.728@0.40.1366.728" timestamp="1586276313313" />
-    <state x="379" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1586276183409">
+    <state x="137" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1366.728@0.40.1366.728" timestamp="1586276664090" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1586280165655">
       <screen x="0" y="40" width="1366" height="728" />
     </state>
-    <state x="379" y="228" key="com.intellij.ide.util.TipDialog/0.40.1366.728@0.40.1366.728" timestamp="1586276183409" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1586280165655" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1586280165654">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1586280165654" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1586280165654">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1586280165654" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1586280165655">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1586280165655" />
+    <state x="120" y="53" key="SettingsEditor" timestamp="1586276765922">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="120" y="53" key="SettingsEditor/0.40.1366.728@0.40.1366.728" timestamp="1586276765922" />
+    <state x="379" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1586276610213">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="379" y="228" key="com.intellij.ide.util.TipDialog/0.40.1366.728@0.40.1366.728" timestamp="1586276610213" />
   </component>
 </project>
